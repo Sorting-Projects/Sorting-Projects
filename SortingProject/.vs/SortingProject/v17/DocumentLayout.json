@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\BinaryInsertionSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|solutionrelative:SortingProject\\BinaryInsertionSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\BinaryInsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|solutionrelative:SortingProject\\BinaryInsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\BubbleSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|solutionrelative:SortingProject\\BubbleSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\InterchangeSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|solutionrelative:SortingProject\\InterchangeSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\InterchangeSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|solutionrelative:SortingProject\\InterchangeSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\InsertionSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|solutionrelative:SortingProject\\InsertionSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\SelectionSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|solutionrelative:SortingProject\\SelectionSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|solutionrelative:SortingProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\BubbleSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|solutionrelative:SortingProject\\BubbleSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\DataGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|solutionrelative:SortingProject\\DataGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\InsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|solutionrelative:SortingProject\\InsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\SelectionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|solutionrelative:SortingProject\\SelectionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\DataGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject\\SortingProject.vcxproj|solutionrelative:SortingProject\\DataGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinaryInsertionSort.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\BinaryInsertionSort.h",
+              "RelativeDocumentMoniker": "SortingProject\\BinaryInsertionSort.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\BinaryInsertionSort.h",
+              "RelativeToolTip": "SortingProject\\BinaryInsertionSort.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-03T18:39:48.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinaryInsertionSort.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\BinaryInsertionSort.cpp",
+              "RelativeDocumentMoniker": "SortingProject\\BinaryInsertionSort.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\BinaryInsertionSort.cpp",
+              "RelativeToolTip": "SortingProject\\BinaryInsertionSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T18:36:38.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InterchangeSort.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\InterchangeSort.h",
+              "RelativeDocumentMoniker": "SortingProject\\InterchangeSort.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\InterchangeSort.h",
+              "RelativeToolTip": "SortingProject\\InterchangeSort.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-03T18:32:30.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InterchangeSort.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\InterchangeSort.cpp",
+              "RelativeDocumentMoniker": "SortingProject\\InterchangeSort.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\InterchangeSort.cpp",
+              "RelativeToolTip": "SortingProject\\InterchangeSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T18:29:21.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InsertionSort.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\InsertionSort.h",
+              "RelativeDocumentMoniker": "SortingProject\\InsertionSort.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\InsertionSort.h",
+              "RelativeToolTip": "SortingProject\\InsertionSort.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-03T17:57:52.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InsertionSort.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\InsertionSort.cpp",
+              "RelativeDocumentMoniker": "SortingProject\\InsertionSort.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\InsertionSort.cpp",
+              "RelativeToolTip": "SortingProject\\InsertionSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T17:57:36.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BubbleSort.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\BubbleSort.h",
+              "RelativeDocumentMoniker": "SortingProject\\BubbleSort.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\BubbleSort.h",
+              "RelativeToolTip": "SortingProject\\BubbleSort.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-03T17:52:27.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BubbleSort.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\BubbleSort.cpp",
+              "RelativeDocumentMoniker": "SortingProject\\BubbleSort.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\BubbleSort.cpp",
+              "RelativeToolTip": "SortingProject\\BubbleSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T17:52:14.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataGenerator.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\DataGenerator.h",
+              "RelativeDocumentMoniker": "SortingProject\\DataGenerator.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\DataGenerator.h",
+              "RelativeToolTip": "SortingProject\\DataGenerator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-03T17:43:47.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SelectionSort.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\SelectionSort.cpp",
+              "RelativeDocumentMoniker": "SortingProject\\SelectionSort.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\SelectionSort.cpp",
+              "RelativeToolTip": "SortingProject\\SelectionSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T17:27:21.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SelectionSort.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\SelectionSort.h",
+              "RelativeDocumentMoniker": "SortingProject\\SelectionSort.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\SelectionSort.h",
+              "RelativeToolTip": "SortingProject\\SelectionSort.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-03T17:25:48.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\main.cpp",
+              "RelativeDocumentMoniker": "SortingProject\\main.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\main.cpp",
+              "RelativeToolTip": "SortingProject\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T16:12:35.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataGenerator.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\DataGenerator.cpp",
+              "RelativeDocumentMoniker": "SortingProject\\DataGenerator.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SortingProject\\SortingProject\\SortingProject\\DataGenerator.cpp",
+              "RelativeToolTip": "SortingProject\\DataGenerator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T17:27:06.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -24,6 +24,9 @@
     <ClCompile Include="O%28n2%29.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="O(nlogn).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataGenerator.h">

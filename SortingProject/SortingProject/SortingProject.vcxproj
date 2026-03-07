@@ -123,21 +123,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BinaryInsertionSort.cpp" />
-    <ClCompile Include="BubbleSort.cpp" />
-    <ClCompile Include="InsertionSort.cpp" />
-    <ClCompile Include="InterchangeSort.cpp" />
+    <ClCompile Include="O%28n2%29.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="SelectionSort.cpp" />
     <ClCompile Include="DataGenerator.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BubbleSort.h" />
+    <ClInclude Include="O%28n2%29.h" />
     <ClInclude Include="DataGenerator.h" />
-    <ClInclude Include="BinaryInsertionSort.h" />
-    <ClInclude Include="InsertionSort.h" />
-    <ClInclude Include="InterchangeSort.h" />
-    <ClInclude Include="SelectionSort.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

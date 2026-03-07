@@ -21,39 +21,15 @@
     <ClCompile Include="DataGenerator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="SelectionSort.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="BubbleSort.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="InsertionSort.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="InterchangeSort.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="BinaryInsertionSort.cpp">
+    <ClCompile Include="O%28n2%29.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="SelectionSort.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="DataGenerator.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="BubbleSort.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="InsertionSort.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="InterchangeSort.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="BinaryInsertionSort.h">
+    <ClInclude Include="O%28n2%29.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

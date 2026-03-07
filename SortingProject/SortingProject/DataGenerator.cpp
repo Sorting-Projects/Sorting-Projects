@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 #include <fstream>
 #include <cmath>
 #include <time.h>
@@ -78,4 +78,11 @@ void GenerateData(int a[], int n, int dataType)
 	default:
 		printf("Error: unknown data type!\n");
 	}
+}
+
+void PrintArray(int a[], int n)
+{
+	for (int i = 0; i < n; i++)
+		cout << a[i] << " ";
+	cout << endl;
 }

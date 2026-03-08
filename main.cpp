@@ -2,6 +2,7 @@
 #include <fstream>
 #include <cstring>
 #include <ctime>
+#include <iomanip>
 #include "DataGenerator.h"
 #include "On2.h"
 #include "Onlogn.h"
@@ -122,7 +123,7 @@ int main(int argc, char* argv[]) {
             long long comp2 = comp;
             double time1 = (double)(end1 - start1) / CLOCKS_PER_SEC * 1000;
             double time2 = (double)(end2 - start2) / CLOCKS_PER_SEC * 1000;
-            cout << "Running time: " << time1 << " | " << time2 << "\nComparisons: " << comp1 << " | " << comp2 << "\n";
+            cout << "Running time: " << time1 << " ms" << " | " << time2 << " ms" << "\nComparisons: " << comp1 << " | " << comp2 << "\n";
             delete[] a;
             delete[] b;
         }
@@ -149,7 +150,7 @@ int main(int argc, char* argv[]) {
             long long comp2 = comp;
             double time1 = (double)(end1 - start1) / CLOCKS_PER_SEC * 1000;
             double time2 = (double)(end2 - start2) / CLOCKS_PER_SEC * 1000;
-            cout << "Running time: " << time1 << " | " << time2 << "\nComparisons: " << comp1 << " | " << comp2 << "\n";
+            cout << fixed << setprecision(6) << "Running time: " << time1 <<  " ms" << " | " << time2 << " ms" << "\nComparisons: " << comp1 << " | " << comp2 << "\n";
             delete[] a;
             delete[] b;
         }

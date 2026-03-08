@@ -32,7 +32,10 @@
     <ClInclude Include="DataGenerator.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="O%28n2%29.h">
+    <ClInclude Include="Onlogn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="On2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

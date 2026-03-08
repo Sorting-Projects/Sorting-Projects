@@ -15,4 +15,6 @@ int GetMax(int arr[], int n);
 
 void QuickSort(int arr[], int low, int high);
 int Partition(int arr[], int low, int high);
+
+void ShellSort(int arr[], int n);
 #endif 

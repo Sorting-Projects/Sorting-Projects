@@ -129,8 +129,9 @@
     <ClCompile Include="O(nlogn).cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="O%28n2%29.h" />
     <ClInclude Include="DataGenerator.h" />
+    <ClInclude Include="On2.h" />
+    <ClInclude Include="Onlogn.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

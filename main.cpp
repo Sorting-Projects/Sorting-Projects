@@ -24,6 +24,7 @@ void RunSort(string algo, int a[], int n) {
     else if (algo == "heap-sort") HeapSort(a, n);
     else if (algo == "shell-sort") ShellSort(a, n);
     else if (algo == "radix-sort") RadixSort(a, n);
+    else if (algo == "counting-sort") CountingSort(a, n); // Add this line
 }
 
 int main(int argc, char* argv[]) {

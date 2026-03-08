@@ -91,7 +91,7 @@ int GetMax(int arr[], int n) {
 	}
 	return max;
 }
-void CountingSort(int arr[], int n, int exp) {
+void CountingSortForRadix(int arr[], int n, int exp) {
 	int* output = new int[n];
 	int count[10] = { 0 };
 	for (int i = 0; i < n; i++) {
@@ -112,8 +112,33 @@ void CountingSort(int arr[], int n, int exp) {
 void RadixSort(int arr[], int n) {
 	int m = GetMax(arr, n);
 	for (int exp = 1; m / exp > 0; exp *= 10)
-		CountingSort(arr, n, exp);
+		CountingSortForRadix(arr, n, exp);
 }
+
+void CountingSort(int arr[], int n)
+{
+	int maxVal = arr[0];
+
+	for (int i = 1; i < n; i++) {
+		comp++;
+		if (arr[i] > maxVal)
+			maxVal = arr[i];
+	}
+
+	int* count = new int[maxVal + 1]();
+
+	for (int i = 0; i < n; i++)
+		count[arr[i]]++;
+
+	int index = 0;
+
+	for (int i = 0; i <= maxVal; i++)
+		while (count[i]--)
+			arr[index++] = i;
+
+	delete[] count;
+}
+
 void ShellSort(int arr[], int n) {
 	for (int gap = n / 2; gap > 0; gap /= 2) {
 		for (int i = gap; i < n; i++) {

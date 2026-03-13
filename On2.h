@@ -13,4 +13,8 @@ void InterchangeSort(int a[], int n);
 
 void SelectionSort(int a[], int n);
 
+void ShakerSort(int a[], int n);
+
+void FlashSort(int a[], int n);
+
 #endif 

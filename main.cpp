@@ -25,6 +25,8 @@ void RunSort(string algo, int a[], int n) {
     else if (algo == "shell-sort") ShellSort(a, n);
     else if (algo == "radix-sort") RadixSort(a, n);
     else if (algo == "counting-sort") CountingSort(a, n); 
+    else if (algo == "shaker-sort") ShakerSort(a, n);
+    else if (algo == "flash-sort") FlashSort(a, n);
 }
 
 int main(int argc, char* argv[]) {
@@ -93,6 +95,8 @@ int main(int argc, char* argv[]) {
                 double time = (double)(end - start) / CLOCKS_PER_SEC * 1000;
                 if (outputParam == "-time" || outputParam == "-both") cout << "Running time: " << time << " ms\n";
                 if (outputParam == "-comp" || outputParam == "-both") cout << "Comparisons: " << comp << "\n";
+                ofstream fout("output.txt");
+                for (int i = 0; i < n; i++) fout << a[i] << " ";
                 delete[] a;
             }
         }
@@ -125,6 +129,8 @@ int main(int argc, char* argv[]) {
             double time1 = (double)(end1 - start1) / CLOCKS_PER_SEC * 1000;
             double time2 = (double)(end2 - start2) / CLOCKS_PER_SEC * 1000;
             cout << "Running time: " << time1 << " ms" << " | " << time2 << " ms" << "\nComparisons: " << comp1 << " | " << comp2 << "\n";
+            ofstream fout("output.txt");
+            for (int i = 0; i < n; i++) fout << a[i] << " ";
             delete[] a;
             delete[] b;
         }

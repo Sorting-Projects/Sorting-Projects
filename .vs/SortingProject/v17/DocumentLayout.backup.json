@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Sorting-Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject.vcxproj|C:\\Users\\ASUS\\Desktop\\Sorting-Projects\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject.vcxproj|C:\\Users\\ASUS\\Desktop\\Sorting-Projects\\On2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject.vcxproj|solutionrelative:On2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject.vcxproj|C:\\Users\\ASUS\\Desktop\\Sorting-Projects\\On.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject.vcxproj|solutionrelative:On.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject.vcxproj|C:\\Users\\ASUS\\Desktop\\Sorting-Projects\\On2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33BABFB8-D40C-46B4-9644-37785988258D}|SortingProject.vcxproj|solutionrelative:On2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "On2.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Sorting-Projects\\On2.h",
+              "RelativeDocumentMoniker": "On2.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Sorting-Projects\\On2.h",
+              "RelativeToolTip": "On2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-16T06:45:48.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "On.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Sorting-Projects\\On.h",
+              "RelativeDocumentMoniker": "On.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Sorting-Projects\\On.h",
+              "RelativeToolTip": "On.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-16T06:45:45.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "On2.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Sorting-Projects\\On2.cpp",
+              "RelativeDocumentMoniker": "On2.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Sorting-Projects\\On2.cpp",
+              "RelativeToolTip": "On2.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-16T06:45:20.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Sorting-Projects\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Sorting-Projects\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-16T06:44:46.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

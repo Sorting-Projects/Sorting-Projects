@@ -123,13 +123,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="O%28n2%29.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="DataGenerator.cpp" />
-    <ClCompile Include="O(nlogn).cpp" />
+    <ClCompile Include="On.cpp" />
+    <ClCompile Include="On2.cpp" />
+    <ClCompile Include="Onlogn.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataGenerator.h" />
+    <ClInclude Include="On.h" />
     <ClInclude Include="On2.h" />
     <ClInclude Include="Onlogn.h" />
   </ItemGroup>

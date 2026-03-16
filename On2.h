@@ -9,8 +9,6 @@ void BubbleSort(int a[], int n);
 
 void InsertionSort(int a[], int n);
 
-void InterchangeSort(int a[], int n);
-
 void SelectionSort(int a[], int n);
 
 void ShakerSort(int a[], int n);

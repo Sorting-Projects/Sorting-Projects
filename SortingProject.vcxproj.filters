@@ -21,10 +21,13 @@
     <ClCompile Include="DataGenerator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="O%28n2%29.cpp">
+    <ClCompile Include="On.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="O(nlogn).cpp">
+    <ClCompile Include="On2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Onlogn.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -36,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="On2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="On.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

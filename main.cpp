@@ -6,6 +6,7 @@
 #include "DataGenerator.h"
 #include "On2.h"
 #include "Onlogn.h"
+#include "On.h"
 using namespace std;
 
 long long comp = 0;

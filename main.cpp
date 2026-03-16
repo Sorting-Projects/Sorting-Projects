@@ -6,7 +6,7 @@
 #include "DataGenerator.h"
 #include "On2.h"
 #include "Onlogn.h"
-
+#include "On.h"
 using namespace std;
 
 long long comp = 0;
@@ -28,6 +28,7 @@ void RunSort(string algo, int a[], int n) {
     else if (algo == "counting-sort") CountingSort(a, n); 
     else if (algo == "shaker-sort") ShakerSort(a, n);
     else if (algo == "flash-sort") FlashSort(a, n);
+    else if (algo == "binary-insertion-sort") BinaryInsertionSort(a, n);
 }
 
 int main(int argc, char* argv[]) {

@@ -3,7 +3,6 @@
 using namespace std;
 extern long long comp;
 
-
 void FlashSort(int a[], int n) {
 	if (++comp && n <= 1) return;
 	int m = int(0.45 * n);
